@@ -19,7 +19,7 @@ url:            'hshercha.github.io'
 author:         'Himal Sherchan'
 
 permalink:       /:year/:title/
-
+gems: [jekyll-paginate]
 defaults:
     -
         scope:

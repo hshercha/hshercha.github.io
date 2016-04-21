@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Himal Sherchan</title>
+    <description>Blogging about programming, music, food, etc.</description>
+    <link>hshercha.github.io</link>
+    <atom:link href="hshercha.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>My First Post!</title>
+        
+        
+          <description>&lt;p&gt;Hello! Welcome to my first post. I hope this post paves the path for more substances in the future. 
+In this blog, I hope to discuss/share my love for programming, music, food through a different approach. &lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 20 Apr 2016 17:50:00 -0500</pubDate>
+        <link>hshercha.github.io/2016/my-first-post/</link>
+        <guid isPermaLink="true">hshercha.github.io/2016/my-first-post/</guid>
+      </item>
+    
+  </channel>
+</rss>

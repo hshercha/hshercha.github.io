@@ -8,5 +8,5 @@ profile: true
 
 **- Music Lover**
 
-**- Food Junkie** `
+**- Food Junkie** 
 {% include footer.html %}

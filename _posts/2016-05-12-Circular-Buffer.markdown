@@ -4,7 +4,7 @@ date:   2016-05-12 23:50:00
 description: What goes around comes around
 ---
 
-Circular buffer/Ring buffer/Cyclic buffer store data in a FIFO (First In First Out) queue. The code in my github repo is a small example of how it should function. It could certainly be optimized for larger spaces. For larger spaces, the memory allocation could be more dynamic. However, for this case the circular buffer has a pre-determined size. It uses byte array to store data and pointers to depict the circular behavior. Circular buffers could have a lot of uses. One that I can think on top of my head is cache memory. 
+Circular buffer/Ring buffer/Cyclic buffer store data in a FIFO (First In First Out) queue. The code in my github repo is a small example of how it should function. It could certainly be optimized for larger spaces. However, for this case the circular buffer has a pre-determined size. It uses byte array to store data and pointers to depict the circular behavior. Circular buffers could have a lot of uses. One that I can think on top of my head is cache memory. 
 
 {% highlight C %}
 

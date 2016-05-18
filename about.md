@@ -4,9 +4,9 @@ permalink: about/
 profile: true
 ---
 
-**- Software Developer**
+* Software Developer
 
-**- Music Lover**
+* Music Lover
 
-**- Food Junkie** 
+* Food Junkie
 {% include footer.html %}

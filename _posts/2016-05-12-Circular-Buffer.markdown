@@ -29,7 +29,7 @@ void initialize(size_t size)
 
 {% endhighlight %}
 
-So **origBufferAddress** pointer always keeps track of the starting address of the buffer. As the **readPtr** and *writePtr** navigate through the buffer incrementally, **origBufferAddress** is used to reset their position in the buffer. 
+So **origBufferAddress** pointer always keeps track of the starting address of the buffer. As the **readPtr** and **writePtr** navigate through the buffer incrementally, **origBufferAddress** is used to reset their position in the buffer. 
 
 {% highlight C %}
 

@@ -9,5 +9,3 @@ In my freetime I love playing music. Singing is a peaceful getaway for me. Addit
 I am a big big fan of Bob Dylan. His music has transcended space and time. Bob Dylan's lyrics have had profound impact on people including me. 
 
 So I decided to cover one of his songs. 
-
-{% soundcloud https://soundcloud.com/hs-man/make-you-feel-my-love-cover %}

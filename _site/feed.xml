@@ -2,16 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Himal Sherchan</title>
-    <description>Blogging about programming, music, food, etc.</description>
+    <description>Discussions on programming, music, food, etc.</description>
     <link>hshercha.github.io</link>
     <atom:link href="hshercha.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Circular Buffer</title>
+        
+        
+          <description>&lt;p&gt;Circular buffer/Ring buffer/Cyclic buffer store data in a FIFO (First In First Out) queue. The code in my github repo is a small example of how it should function. It could certainly be optimized for larger spaces. However, for this case the circular buffer has a pre-determined size. It uses byte array to store data and pointers to depict the circular behavior. Circular buffers could have a lot of uses. One that I can think on top of my head is cache memory.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 12 May 2016 18:50:00 -0500</pubDate>
+        <link>hshercha.github.io/2016/Circular-Buffer/</link>
+        <guid isPermaLink="true">hshercha.github.io/2016/Circular-Buffer/</guid>
+      </item>
     
       <item>
         <title>My First Post!</title>
         
         
           <description>&lt;p&gt;Hello! Welcome to my first post. I hope this post paves the path for more substances in the future. 
-In this blog, I hope to discuss/share my love for programming, music, food through a different approach. &lt;/p&gt;
+In this blog, I hope to discuss/share my love for programming, music, food through a different approach.&lt;/p&gt;
+
 </description>
         
         <pubDate>Wed, 20 Apr 2016 17:50:00 -0500</pubDate>

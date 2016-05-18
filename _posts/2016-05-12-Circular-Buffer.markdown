@@ -77,6 +77,7 @@ I actually started off with idea of using LinkedList to implement a circular buf
 
 
 **MISTAKE #2**
+
 I was foolish enough to forget this line of code. 
 
 {% highlight C %}

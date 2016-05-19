@@ -11,8 +11,8 @@ paginate: 20
 baseurl: /
 domain_name: 'hshercha.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+disqus: true
+disqus_shortname: 'hshercha'
 
 # Details for the RSS feed generator
 url:            'hshercha.github.io'

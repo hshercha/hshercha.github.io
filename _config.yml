@@ -10,7 +10,7 @@ highlighter: rouge
 paginate: 20
 baseurl: /
 domain_name: 'hshercha.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-77945336-1'
 disqus: true
 disqus_shortname: 'hshercha'
 

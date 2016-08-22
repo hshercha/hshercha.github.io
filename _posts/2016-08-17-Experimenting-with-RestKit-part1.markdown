@@ -38,8 +38,8 @@ As you can see from the code above that dependencies for varying target files ca
 
 1. Open the terminal > Navigate to your project directory > Type "pod install".
 2. Sit there and watch the wizardy unfold! 
-3. Once the pod is successfully installed, open .xcworkspace file instead of the .xcodeproj file
-4. Open AppDelegate.m file
+3. Once the pod is successfully installed, open .xcworkspace file instead of the .xcodeproj file.
+4. Open AppDelegate.m file.
 5. Add the following code and build the project.
 
 {% highlight C %}
@@ -52,18 +52,18 @@ As you can see from the code above that dependencies for varying target files ca
 TypeError - Unable to convert Ruby value `"AFNetworking"' into a CFTypeRef.
 {% endhighlight %}
 
-I ran into this issue while integrating RestKit via the podfile. This issue pertains to the current ruby version in your computer. Installing any version of ruby >= 2.2.3 should fix it.
+I ran into this issue while integrating RestKit via the podfile. This issue pertains to the current Ruby version in your computer. Installing any version of Ruby >= 2.2.3 should fix it.
 
 **ISSUE #2**
 {% highlight bash %}
 "RKObjectMapping.h" file not found
 {% endhighlight %}
 
-This is a compile error that occured while building the project. Downgrading your cocoapods is an option. However, there is an easier work around for this issue. 
+This compile error that occured while building the project. Downgrading your cocoapods is an option. However, there is an easier work around for this issue. 
 
-1. Select the project file
-2. Go to Build Settings > Select "Header Search Paths"
-3. Set all the paths to be recursive 
+1. Select the project file.
+2. Go to Build Settings > Select "Header Search Paths".
+3. Set all the paths to be recursive.
 
 {% highlight bash %}
 ${PODS_ROOT}/Headers/Public

@@ -77,4 +77,6 @@ ${PODS_ROOT}/Headers/Public/ISO8601DateFormatterValueTransformer
 
 ---
 Now that we have configured RestKit, my next post will discuss extracting data from the 
-[Unofficial Airbnb API](http://airbnbapi.org/) 
+[Unofficial AirBnb API](http://airbnbapi.org/).
+
+## [Experimenting with RestKit(Part 2)]({% post_url 2016-08-17-Experimenting-with-RestKit-part2 %})
